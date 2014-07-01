@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Replay gameMode="2" enableClosedOffMapCentreWalls="0" map="Mainnight" versionName="Version 2.5.2" version="159" duration="652.004333" datetime="1404234172">
+    <Characters>
+        <Character name="-=blanka=-" className="Heavy" skin="2" team="0" steamId="-=blanka=-#76561197997233292" local="0" isBot="0" timeEntered="0.000000" timeLeft="652.004333" />
+        <Character name="StOUch2046" className="Summoner" skin="1" team="1" steamId="StOUch2046#76561198060033624" local="0" isBot="0" timeEntered="0.000000" timeLeft="652.004333" />
+        <Character name="Purple Sea" className="Cowboy" skin="2" team="0" steamId="Purple Sea#76561198048857667" local="1" isBot="0" timeEntered="0.000000" timeLeft="652.004333" />
+        <Character name="OwlishBot" className="Tank" skin="0" team="1" steamId="#0" local="0" isBot="1" timeEntered="0.000000" timeLeft="1.011073" />
+        <Character name="BabySeaghan" className="Dasher" skin="0" team="1" steamId="#0" local="0" isBot="1" timeEntered="0.000000" timeLeft="0.000000" />
+        <Character name="Saltonara" className="Hunter" skin="1" team="1" steamId="Saltonara#76561198011501261" local="0" isBot="0" timeEntered="0.000000" timeLeft="652.004333" />
+        <Character name="samuel67500" className="Bird" skin="1" team="0" steamId="samuel67500#76561198072061800" local="0" isBot="0" timeEntered="0.000000" timeLeft="652.004333" />
+        <Character name="" className="" skin="0" team="2" steamId="" local="0" isBot="129" timeEntered="0.000000" timeLeft="0.000000" />
+        <Character name="" className="" skin="0" team="2" steamId="" local="0" isBot="247" timeEntered="0.889094" timeLeft="0.000000" />
+        <Character name="Thatz" className="Spy" skin="1" team="1" steamId="Thatz#76561198025512616" local="0" isBot="0" timeEntered="1.925381" timeLeft="652.004333" />
+        <Character name="" className="" skin="0" team="2" steamId="" local="0" isBot="247" timeEntered="28.565796" timeLeft="0.000000" />
+    </Characters>
+</Replay>

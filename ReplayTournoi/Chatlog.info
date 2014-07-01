@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Chatlog>
+    <Entries>
+        <Entry time="10" team="1" chatTarget="All" className="Skree" name="Saltonara" message="About time" />
+        <Entry time="24" team="1" chatTarget="All" className="Sentry" name="StOUch2046" message="pk jsusi lui ???" />
+        <Entry time="34" team="0" chatTarget="All" className="Lonestar" name="Purple Sea" message="Randomnauts" />
+        <Entry time="47" team="1" chatTarget="All" className="Sentry" name="StOUch2046" message="k" />
+        <Entry time="616" team="1" chatTarget="All" className="Voltar" name="StOUch2046" message="c nul" />
+        <Entry time="648" team="1" chatTarget="All" className="Voltar" name="StOUch2046" message="2 X voltqr...." />
+        <Entry time="652" team="0" chatTarget="All" className="Derpl" name="-=blanka=-" message="lol" />
+        <Entry time="652" team="0" chatTarget="All" className="Derpl" name="-=blanka=-" message="gg wp" />
+        <Entry time="652" team="1" chatTarget="All" className="Raelynn" name="Saltonara" message="Well" />
+        <Entry time="652" team="0" chatTarget="All" className="Lonestar" name="Purple Sea" message="Doublevoltarluck" />
+        <Entry time="652" team="0" chatTarget="All" className="Vinnie &amp; Spike" name="samuel67500" message="gg" />
+        <Entry time="652" team="0" chatTarget="All" className="Lonestar" name="Purple Sea" message="gg" />
+    </Entries>
+    <Hash profileIdentifier="76561193753890371" hash="1a135f0660f6a56094f54137519b68ee1e16514d" />
+</Chatlog>
